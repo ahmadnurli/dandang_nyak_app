@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors
+
 import 'package:dandang_nyak_app/features/splashscreen_feature/widgets/widgets.dart';
 import 'package:flutter/material.dart';
 
